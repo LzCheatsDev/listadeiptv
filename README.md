@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="A&B" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 2
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://images.app.goo.gl/QXiNPob7T2expnsG6" group-title="Canal",A&E
 https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
 
 #EXTINF:-1 AMC
