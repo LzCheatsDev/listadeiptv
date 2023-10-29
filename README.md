@@ -12,6 +12,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b0
 #EXTINF:-1 tvg-id="63dd5c904e83e700088fb68a" tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="🎈Infantil",Tartarugas Ninja | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
+#EXTINF:-1 tvg-id="6079c1539b05aa0007a57495" tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png" group-title="🎈Infantil", As Aventuras de Jackie Chan | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1 AMC
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
